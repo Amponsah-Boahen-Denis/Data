@@ -20,7 +20,7 @@
 #     elements.push(curnode);
 #     curnode=curnode.next
 # }
-# return elements;
+# 
 #     }
 # }
 # const answer= new linkedlist();
