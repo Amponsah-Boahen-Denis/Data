@@ -57,5 +57,4 @@ return elements;
  answer.append('hello there');
 answer.append('max');
  answer.append(true);
-answer.append(18.51);
  console.log(answer.toArray());
